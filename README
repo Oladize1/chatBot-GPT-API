@@ -1,0 +1,9 @@
+## git clone the repository or download the zip file
+
+npm install to install all dependency
+
+## go to openAI for your api key
+
+create a .env file and put your OPENAI_API_key
+
+npm start to start the bot
