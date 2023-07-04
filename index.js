@@ -32,7 +32,7 @@ async function main() {
     }
 }
 
-/*
+/* to test readline sync
 async function name() {
     const userName = readLineSync.question('what is your name?')
     console.log(`hello ${colors.green.bold(userName)}`)
